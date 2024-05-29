@@ -1,0 +1,14 @@
+C:\Temp\projetos\HotelariaDio\bin\Debug\net8.0\HotelariaDio.exe
+C:\Temp\projetos\HotelariaDio\bin\Debug\net8.0\HotelariaDio.deps.json
+C:\Temp\projetos\HotelariaDio\bin\Debug\net8.0\HotelariaDio.runtimeconfig.json
+C:\Temp\projetos\HotelariaDio\bin\Debug\net8.0\HotelariaDio.dll
+C:\Temp\projetos\HotelariaDio\bin\Debug\net8.0\HotelariaDio.pdb
+C:\Temp\projetos\HotelariaDio\obj\Debug\net8.0\HotelariaDio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\projetos\HotelariaDio\obj\Debug\net8.0\HotelariaDio.AssemblyInfoInputs.cache
+C:\Temp\projetos\HotelariaDio\obj\Debug\net8.0\HotelariaDio.AssemblyInfo.cs
+C:\Temp\projetos\HotelariaDio\obj\Debug\net8.0\HotelariaDio.csproj.CoreCompileInputs.cache
+C:\Temp\projetos\HotelariaDio\obj\Debug\net8.0\HotelariaDio.dll
+C:\Temp\projetos\HotelariaDio\obj\Debug\net8.0\refint\HotelariaDio.dll
+C:\Temp\projetos\HotelariaDio\obj\Debug\net8.0\HotelariaDio.pdb
+C:\Temp\projetos\HotelariaDio\obj\Debug\net8.0\HotelariaDio.genruntimeconfig.cache
+C:\Temp\projetos\HotelariaDio\obj\Debug\net8.0\ref\HotelariaDio.dll
